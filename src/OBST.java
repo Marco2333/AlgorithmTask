@@ -26,7 +26,7 @@ public class OBST {
 				W[i][j] = W[i][j - 1] + P[j - 1] + Q[j];
 				k = -1;
 				min = Integer.MAX_VALUE;
-				for(l = i + 1;l < j;l++) {
+				for(l = i + 1;l <= j;l++) {
 					int temp = C[i][l - 1] + C[l][j];
 					if(temp < min) {
 						k = l;
@@ -42,8 +42,8 @@ public class OBST {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int[] P = new int[]{1, 1, 1};
-		int[] Q = new int[]{1, 1, 1, 1};
+		int[] P = new int[]{3, 3,1,1};
+		int[] Q = new int[]{2, 3, 1, 1, 1};
 		int[][] R = new OBST().obst(P, Q);
 		
 		for(int i = 0;i < R.length;i++) {
