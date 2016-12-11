@@ -1,6 +1,4 @@
-algorithm exercises in fresh year of graduate 
-
-including:
+##algorithm exercises ##
 
 1. get max value in array recursively => MAX
 
