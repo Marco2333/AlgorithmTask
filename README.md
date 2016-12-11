@@ -1,4 +1,4 @@
-##algorithm exercises ##
+###algorithm exercises ###
 
 1. get max value in array recursively => MAX
 
