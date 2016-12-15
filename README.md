@@ -22,6 +22,6 @@
 
 11. 0/1 knapsack problem => DKNAP
 
-12.biconnected graph => BiConnectedGraph
+12. biconnected graph => BiConnectedGraph
 
-13.0/1 knapsack problem, trace back method => BKNAP1
+13. 0/1 knapsack problem, trace back method => BKNAP1
