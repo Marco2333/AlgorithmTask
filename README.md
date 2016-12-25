@@ -18,10 +18,14 @@
 
 9. kruskal algorithm => Kruskal
 
-10. optimal binary search tree => OBST
+10. multistage graph, forward process => MultistageGraph
 
-11. 0/1 knapsack problem => DKNAP
+11. optimal binary search tree => OBST
 
-12. biconnected graph => BiConnectedGraph
+12. 0/1 knapsack problem => DKNAP
 
-13. 0/1 knapsack problem, trace back method => BKNAP1
+13. biconnected graph => BiConnectedGraph
+
+14. 0/1 knapsack problem, trace back method => BKNAP1
+
+15. 0/1 knapsack problem, branch and bound method => LCKNAP
